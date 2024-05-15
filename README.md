@@ -1,6 +1,8 @@
 # VENOM_C2
 ⭐ Welcome 🥷
 
+<img src="https://github.com/thebabayagakiller/VENOM_C2/blob/main/venom.jpg?raw=true">
+
 sudo apt-get update
 
 sudo apt-get install python3
